@@ -4,3 +4,21 @@
 
 /.vs
 /obj
+/Modkit/ReferenceAssemblies/obj/xdoc/cache
+*.dll
+/Modkit/ReferenceAssemblies/Eco.Core.xml
+/Modkit/ReferenceAssemblies/Eco.Gameplay.ExternalAnnotations.xml
+/Modkit/ReferenceAssemblies/Eco.Gameplay.xml
+/Modkit/ReferenceAssemblies/Eco.Integrations.Steamworks.xml
+/Modkit/ReferenceAssemblies/Eco.ModKit.xml
+/Modkit/ReferenceAssemblies/Eco.Mods.xml
+/Modkit/ReferenceAssemblies/Eco.Plugins.xml
+/Modkit/ReferenceAssemblies/Eco.Shared.xml
+/Modkit/ReferenceAssemblies/Eco.Simulation.xml
+/Modkit/ReferenceAssemblies/Eco.Stats.xml
+/Modkit/ReferenceAssemblies/Eco.Twitch.Shared.xml
+/Modkit/ReferenceAssemblies/Eco.WebServer.xml
+/Modkit/ReferenceAssemblies/Eco.World.xml
+/Modkit/ReferenceAssemblies/Eco.WorldGenerator.xml
+/Modkit/ReferenceAssemblies/FodyWeavers.xml
+/bin/Debug/net8.0
